@@ -1,1 +1,1 @@
-# For the Update HTML in the launcher
+# For the Game Launcher
